@@ -1,7 +1,7 @@
 /*
 
 Developed by Erick Ignacio Santillan Zaragoza (Santirax)
-Solucion del problema: 12083. Pachito y sus tareas usando la implementacion del merge sort
+Solucion del problema: 12083. Pachito y sus tareas, usando la implementacion del merge sort
 
 */
 #include <iostream>
