@@ -1,3 +1,8 @@
+/*
+
+Developed by Erick Ignacio Santillan Zaragoza (Santirax)
+Solucion del problema 12083. Pachito y sus tareas, mood Competitive
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
