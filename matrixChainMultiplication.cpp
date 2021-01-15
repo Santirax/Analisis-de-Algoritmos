@@ -1,3 +1,6 @@
+/*
+Implementacion del algoritmo matrix chain multiplication
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
