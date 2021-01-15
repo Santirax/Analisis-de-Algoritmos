@@ -1,5 +1,6 @@
 /*
-Implementacion del algoritmo matrix chain multiplication
+ * Developed by Erick Ignacio Santillan Zaragoza (Santirax)
+ * Implementacion del algoritmo matrix chain multiplication
 */
 #include <bits/stdc++.h>
 using namespace std;
