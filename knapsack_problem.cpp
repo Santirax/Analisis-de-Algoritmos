@@ -1,5 +1,5 @@
-/* Implementacion del problema de la mochila, en el link
- * 
+/* Developed by Erick Ignacio Santillan Zaragoza (Santirax)
+ * Implementacion del problema de la mochila, en el link
  * https://www.spoj.com/problems/KNAPSACK/
  */
 #include <bits/stdc++.h>
