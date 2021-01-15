@@ -1,4 +1,5 @@
 /*
+ * Developed by Erick Ignacio Santillan Zaragoza (Santirax)
  * Solucion del problema Cut Ribbon en el link:
  * https://codeforces.com/contest/189/problem/A
  */
