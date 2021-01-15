@@ -1,6 +1,8 @@
-/*Implementacion del problema Longest Common Subsequence
- * En el link:
- * https://leetcode.com/problems/longest-common-subsequence/
+/*
+   Developed by Erick Ignacio Santillan Zaragoza (Santirax)
+   Implementacion del problema Longest Common Subsequence
+   En el link:
+   https://leetcode.com/problems/longest-common-subsequence/
  */
 #include <bits/stdc++.h>
 using namespace std;
