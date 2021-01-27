@@ -1,3 +1,7 @@
+/*
+    Developed by Erick Ignacio Santillan Zaragoza (Santirax)
+    Implementacion del problema de la mochila fraccionaria
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
