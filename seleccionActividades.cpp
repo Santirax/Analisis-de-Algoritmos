@@ -1,4 +1,7 @@
-/* Implementacion de la solucion al problema de seleccion de actividades */
+/*
+    Developed by Erick Ignacio Santillan Zaragoza (Santirax)
+    Implementacion de la solucion al problema de seleccion de actividades
+*/
 #include<bits/stdc++.h>
  using namespace std;
  
